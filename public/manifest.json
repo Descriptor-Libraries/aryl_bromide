@@ -1,0 +1,16 @@
+{
+  "short_name": "Aryl Bromides app",
+  "name": "Aryl Bromides Descriptor Library",
+  "icons": [
+    {
+      "src": "brand/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#702275",
+  "background_color": "#ffffff"
+}
