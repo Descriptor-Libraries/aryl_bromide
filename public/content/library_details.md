@@ -1,7 +1,7 @@
 # Library Details
 
 ## Molecule Identification
-The initial library of primary alkyl bromides was selected from the Auto-QChem database developed by the Doyle Lab. The library was expanded to include commercially available structures suggested by Dr. Jules Schleinitz. This compilation produced a set of 12849 structurally diverse and synthetically tractable aryl bromides was obtained. The library is purposefully diverse and excludes very few functional groups to ensure it is applicable for a broad variety of purposes. Minimal curation was done to exclude radical structures, structures that are duplicates when considering isotopes and high molecular weight compounds ( > 480 g/mol )
+The initial library of primary alkyl bromides was selected from the Auto-QChem database developed by the Doyle Lab. The library was expanded to include commercially available structures suggested by Dr. Jules Schleinitz. This compilation produced a set of 12847 structurally diverse and synthetically tractable aryl bromides was obtained. The library is purposefully diverse and excludes very few functional groups to ensure it is applicable for a broad variety of purposes. Minimal curation was done to exclude radical structures, structures that are duplicates when considering isotopes and high molecular weight compounds ( > 480 g/mol )
 
 ## Conformational Searching & Conformer Selection
 
